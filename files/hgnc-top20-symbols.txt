@@ -1,0 +1,63 @@
+HGNC ID	Status	Approved symbol	Approved name	Alias symbol	Alias name
+HGNC:4635	Approved	GSTM3	glutathione S-transferase mu 3	GST5	
+HGNC:4635	Approved	GSTM3	glutathione S-transferase mu 3	GSTM3TV2	
+HGNC:5246	Approved	HSPB1	heat shock protein family B (small) member 1	HSP27	
+HGNC:5246	Approved	HSPB1	heat shock protein family B (small) member 1	HSP28	
+HGNC:5246	Approved	HSPB1	heat shock protein family B (small) member 1	Hs.76067	
+HGNC:5246	Approved	HSPB1	heat shock protein family B (small) member 1	Hsp25	
+HGNC:5246	Approved	HSPB1	heat shock protein family B (small) member 1	CMT2F	
+HGNC:13352	Approved	MAP1LC3B	microtubule associated protein 1 light chain 3 beta	ATG8F	
+HGNC:6970	Approved	MDH1	malate dehydrogenase 1		
+HGNC:16390	Approved	NOD1	nucleotide binding oligomerization domain containing 1	NLRC1	nucleotide-binding oligomerization domain, leucine rich repeat and CARD domain containing 1
+HGNC:16390	Approved	NOD1	nucleotide binding oligomerization domain containing 1	CLR7.1	nucleotide-binding oligomerization domain, leucine rich repeat and CARD domain containing 1
+HGNC:16390	Approved	NOD1	nucleotide binding oligomerization domain containing 1	NLRC1	NLR family, CARD domain containing 1
+HGNC:16390	Approved	NOD1	nucleotide binding oligomerization domain containing 1	CLR7.1	NLR family, CARD domain containing 1
+HGNC:14581	Approved	PINK1	PTEN induced kinase 1	BRPK	
+HGNC:590	Approved	BIRC2	baculoviral IAP repeat containing 2	cIAP1	NFR2-TRAF signalling complex protein
+HGNC:590	Approved	BIRC2	baculoviral IAP repeat containing 2	hiap-2	NFR2-TRAF signalling complex protein
+HGNC:590	Approved	BIRC2	baculoviral IAP repeat containing 2	MIHB	NFR2-TRAF signalling complex protein
+HGNC:590	Approved	BIRC2	baculoviral IAP repeat containing 2	RNF48	NFR2-TRAF signalling complex protein
+HGNC:590	Approved	BIRC2	baculoviral IAP repeat containing 2	c-IAP1	NFR2-TRAF signalling complex protein
+HGNC:590	Approved	BIRC2	baculoviral IAP repeat containing 2	cIAP1	apoptosis inhibitor 1
+HGNC:590	Approved	BIRC2	baculoviral IAP repeat containing 2	hiap-2	apoptosis inhibitor 1
+HGNC:590	Approved	BIRC2	baculoviral IAP repeat containing 2	MIHB	apoptosis inhibitor 1
+HGNC:590	Approved	BIRC2	baculoviral IAP repeat containing 2	RNF48	apoptosis inhibitor 1
+HGNC:590	Approved	BIRC2	baculoviral IAP repeat containing 2	c-IAP1	apoptosis inhibitor 1
+HGNC:10020	Approved	RIPK2	receptor interacting serine/threonine kinase 2	RICK	
+HGNC:10020	Approved	RIPK2	receptor interacting serine/threonine kinase 2	RIP2	
+HGNC:10020	Approved	RIPK2	receptor interacting serine/threonine kinase 2	CARDIAK	
+HGNC:10020	Approved	RIPK2	receptor interacting serine/threonine kinase 2	CARD3	
+HGNC:1503	Approved	CASP2	caspase 2	ICH1	protein phosphatase 1, regulatory subunit 57
+HGNC:1503	Approved	CASP2	caspase 2	PPP1R57	protein phosphatase 1, regulatory subunit 57
+HGNC:1503	Approved	CASP2	caspase 2	MGC2181	protein phosphatase 1, regulatory subunit 57
+HGNC:1504	Approved	CASP3	caspase 3	CPP32	
+HGNC:1504	Approved	CASP3	caspase 3	CPP32B	
+HGNC:1504	Approved	CASP3	caspase 3	Yama	
+HGNC:1504	Approved	CASP3	caspase 3	apopain	
+HGNC:1505	Approved	CASP4	caspase 4	ICE(rel)II	
+HGNC:1505	Approved	CASP4	caspase 4	ICH-2	
+HGNC:1505	Approved	CASP4	caspase 4	TX	
+HGNC:1507	Approved	CASP6	caspase 6	MCH2	mammalian Ced-3 homologue 2
+HGNC:1507	Approved	CASP6	caspase 6	caspase-6	mammalian Ced-3 homologue 2
+HGNC:1507	Approved	CASP6	caspase 6	CSP-6	mammalian Ced-3 homologue 2
+HGNC:1508	Approved	CASP7	caspase 7	MCH3	
+HGNC:1508	Approved	CASP7	caspase 7	CMH-1	
+HGNC:1508	Approved	CASP7	caspase 7	ICE-LAP3	
+HGNC:1509	Approved	CASP8	caspase 8	MCH5	
+HGNC:1509	Approved	CASP8	caspase 8	MACH	
+HGNC:1509	Approved	CASP8	caspase 8	FLICE	
+HGNC:1509	Approved	CASP8	caspase 8	Casp-8	
+HGNC:1511	Approved	CASP9	caspase 9	MCH6	protein phosphatase 1, regulatory subunit 56
+HGNC:1511	Approved	CASP9	caspase 9	ICE-LAP6	protein phosphatase 1, regulatory subunit 56
+HGNC:1511	Approved	CASP9	caspase 9	APAF-3	protein phosphatase 1, regulatory subunit 56
+HGNC:1511	Approved	CASP9	caspase 9	PPP1R56	protein phosphatase 1, regulatory subunit 56
+HGNC:1500	Approved	CASP10	caspase 10	MCH4	FAS-associated death domain protein interleukin-1B-converting enzyme 2
+HGNC:1500	Approved	CASP10	caspase 10	FLICE-2	FAS-associated death domain protein interleukin-1B-converting enzyme 2
+HGNC:11280	Approved	SQSTM1	sequestosome 1	p62	autophagy receptor p62
+HGNC:11280	Approved	SQSTM1	sequestosome 1	p60	autophagy receptor p62
+HGNC:11280	Approved	SQSTM1	sequestosome 1	p62B	autophagy receptor p62
+HGNC:11280	Approved	SQSTM1	sequestosome 1	A170	autophagy receptor p62
+HGNC:12036	Approved	TRAF6	TNF receptor associated factor 6	RNF85	RING finger protein 85
+HGNC:592	Approved	XIAP	X-linked inhibitor of apoptosis	hILP	IAP-like protein 1
+HGNC:592	Approved	XIAP	X-linked inhibitor of apoptosis	ILP-1	IAP-like protein 1
+HGNC:3214	Approved	EEF2	eukaryotic translation elongation factor 2	EEF-2	polypeptidyl-tRNA translocase
