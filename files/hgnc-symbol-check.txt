@@ -1,0 +1,99 @@
+HGNC ID	Status	Approved symbol	Approved name	Alias symbol
+HGNC:326	Approved	AGPAT3	1-acylglycerol-3-phosphate O-acyltransferase 3	LPAAT-gamma
+HGNC:326	Approved	AGPAT3	1-acylglycerol-3-phosphate O-acyltransferase 3	LPAAT3
+HGNC:326	Approved	AGPAT3	1-acylglycerol-3-phosphate O-acyltransferase 3	LPLAT3
+HGNC:3976	Approved	FTH1	ferritin heavy chain 1	FTH
+HGNC:3976	Approved	FTH1	ferritin heavy chain 1	PLIF
+HGNC:3976	Approved	FTH1	ferritin heavy chain 1	PIG15
+HGNC:3976	Approved	FTH1	ferritin heavy chain 1	FHC
+HGNC:3999	Approved	FTL	ferritin light chain	MGC71996
+HGNC:3999	Approved	FTL	ferritin light chain	NBIA3
+HGNC:3999	Approved	FTL	ferritin light chain	FTL1
+HGNC:4010	Approved	FUS	FUS RNA binding protein	TLS
+HGNC:4010	Approved	FUS	FUS RNA binding protein	FUS1
+HGNC:4010	Approved	FUS	FUS RNA binding protein	hnRNP-P2
+HGNC:4010	Approved	FUS	FUS RNA binding protein	HNRNPP2
+HGNC:4232	Approved	GDNF	glial cell derived neurotrophic factor	ATF1
+HGNC:4232	Approved	GDNF	glial cell derived neurotrophic factor	ATF2
+HGNC:4232	Approved	GDNF	glial cell derived neurotrophic factor	HFB1-GDNF
+HGNC:4555	Approved	GPX3	glutathione peroxidase 3	
+HGNC:4623	Approved	GSR	glutathione-disulfide reductase	
+HGNC:4632	Approved	GSTM1	glutathione S-transferase mu 1	MU
+HGNC:4632	Approved	GSTM1	glutathione S-transferase mu 1	H-B
+HGNC:4634	Approved	GSTM2	glutathione S-transferase mu 2	GST4
+HGNC:4636	Approved	GSTM4	glutathione S-transferase mu 4	
+HGNC:4637	Approved	GSTM5	glutathione S-transferase mu 5	
+HGNC:13312	Approved	GSTO1	glutathione S-transferase omega 1	GSTTLp28
+HGNC:13312	Approved	GSTO1	glutathione S-transferase omega 1	P28
+HGNC:4847	Approved	HCRT	hypocretin neuropeptide precursor	PPOX
+HGNC:4847	Approved	HCRT	hypocretin neuropeptide precursor	OX
+HGNC:5013	Approved	HMOX1	heme oxygenase 1	bK286B10
+HGNC:5013	Approved	HMOX1	heme oxygenase 1	HO-1
+HGNC:6059	Approved	IDO1	indoleamine 2,3-dioxygenase 1	
+HGNC:6018	Approved	IL6	interleukin 6	IL-6
+HGNC:6018	Approved	IL6	interleukin 6	BSF2
+HGNC:6018	Approved	IL6	interleukin 6	HGF
+HGNC:6018	Approved	IL6	interleukin 6	HSF
+HGNC:6469	Approved	KYNU	kynureninase	
+HGNC:6893	Approved	MAPT	microtubule associated protein tau	MTBT1
+HGNC:6893	Approved	MAPT	microtubule associated protein tau	tau
+HGNC:6893	Approved	MAPT	microtubule associated protein tau	PPND
+HGNC:6893	Approved	MAPT	microtubule associated protein tau	FTDP-17
+HGNC:6893	Approved	MAPT	microtubule associated protein tau	TAU
+HGNC:6893	Approved	MAPT	microtubule associated protein tau	MSTD
+HGNC:6893	Approved	MAPT	microtubule associated protein tau	MTBT2
+HGNC:6893	Approved	MAPT	microtubule associated protein tau	FLJ31424
+HGNC:6893	Approved	MAPT	microtubule associated protein tau	MGC138549
+HGNC:6893	Approved	MAPT	microtubule associated protein tau	PPP1R103
+HGNC:6893	Approved	MAPT	microtubule associated protein tau	tau-40
+HGNC:6893	Approved	MAPT	microtubule associated protein tau	Tau-PHF6
+HGNC:612	Approved	APOD	apolipoprotein D	Apo-D
+HGNC:620	Approved	APP	amyloid beta precursor protein	alpha-sAPP
+HGNC:7061	Approved	MGST1	microsomal glutathione S-transferase 1	MGST-I
+HGNC:7061	Approved	MGST1	microsomal glutathione S-transferase 1	PMAN
+HGNC:7808	Approved	NGF	nerve growth factor	
+HGNC:7809	Approved	NGFR	nerve growth factor receptor	TNFRSF16
+HGNC:7809	Approved	NGFR	nerve growth factor receptor	CD271
+HGNC:7809	Approved	NGFR	nerve growth factor receptor	p75NTR
+HGNC:15894	Approved	PANK2	pantothenate kinase 2	HSS
+HGNC:15894	Approved	PANK2	pantothenate kinase 2	FLJ11729
+HGNC:15894	Approved	PANK2	pantothenate kinase 2	PKAN
+HGNC:15894	Approved	PANK2	pantothenate kinase 2	HARP
+HGNC:8794	Approved	PDE8B	phosphodiesterase 8B	
+HGNC:9009	Approved	PKD2	polycystin 2, transient receptor potential cation channel	PKD4
+HGNC:9009	Approved	PKD2	polycystin 2, transient receptor potential cation channel	PC2
+HGNC:9009	Approved	PKD2	polycystin 2, transient receptor potential cation channel	Pc-2
+HGNC:9009	Approved	PKD2	polycystin 2, transient receptor potential cation channel	TRPP2
+HGNC:9508	Approved	PSEN1	presenilin 1	FAD
+HGNC:9508	Approved	PSEN1	presenilin 1	S182
+HGNC:9508	Approved	PSEN1	presenilin 1	PS1
+HGNC:9508	Approved	PSEN1	presenilin 1	PS-1
+HGNC:9508	Approved	PSEN1	presenilin 1	PSNL1
+HGNC:10548	Approved	ATXN1	ataxin 1	D6S504E
+HGNC:10548	Approved	ATXN1	ataxin 1	ATX1
+HGNC:10751	Approved	SELENOP	selenoprotein P	SeP
+HGNC:10751	Approved	SELENOP	selenoprotein P	SELP
+HGNC:10751	Approved	SELENOP	selenoprotein P	SEPP
+HGNC:8941	Approved	SERPINA1	serpin family A member 1	AAT
+HGNC:8941	Approved	SERPINA1	serpin family A member 1	A1A
+HGNC:8941	Approved	SERPINA1	serpin family A member 1	PI1
+HGNC:8941	Approved	SERPINA1	serpin family A member 1	alpha-1-antitrypsin
+HGNC:8941	Approved	SERPINA1	serpin family A member 1	A1AT
+HGNC:8941	Approved	SERPINA1	serpin family A member 1	alpha1AT
+HGNC:14929	Approved	SIRT1	sirtuin 1	SIR2L1
+HGNC:11138	Approved	SNCA	synuclein alpha	NACP
+HGNC:11138	Approved	SNCA	synuclein alpha	PD1
+HGNC:11180	Approved	SOD2	superoxide dismutase 2	GC1
+HGNC:11180	Approved	SOD2	superoxide dismutase 2	IPOB
+HGNC:11180	Approved	SOD2	superoxide dismutase 2	MnSOD
+HGNC:11180	Approved	SOD2	superoxide dismutase 2	GClnc1
+HGNC:11180	Approved	SOD2	superoxide dismutase 2	lncRNA-GC1
+HGNC:11273	Approved	SPTAN1	spectrin alpha, non-erythrocytic 1	
+HGNC:11571	Approved	TARDBP	TAR DNA binding protein	TDP-43
+HGNC:11571	Approved	TARDBP	TAR DNA binding protein	ALS10
+HGNC:11581	Approved	TBCD	tubulin folding cofactor D	
+HGNC:26006	Approved	TTC19	tetratricopeptide repeat domain 19	FLJ20343
+HGNC:26006	Approved	TTC19	tetratricopeptide repeat domain 19	MGC19520
+HGNC:12692	Approved	VIM	vimentin	
+HGNC:2389	Approved	CRYAB	crystallin alpha B	HSPB5
+HGNC:3415	Approved	EPO	erythropoietin	EP
